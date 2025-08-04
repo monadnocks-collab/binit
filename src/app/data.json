@@ -1,0 +1,497 @@
+{
+  "hero": {
+    "title": {
+      "line1": "Head of Communications",
+      "line2": "and Media",
+      "line3": "shaping public impact"
+    },
+    "subtitle": "I'm Binit Kishor — Head of Communications and Media at Monadnocks, crafting compelling narratives, managing media relations, and ensuring our message reaches stakeholders effectively. Core team at Monadnocks.",
+    "cta": {
+      "text": "Let's Connect",
+      "href": "#connect"
+    },
+    "image": {
+      "src": "/binit01.jpeg",
+      "alt": "Binit Kishor profile photo"
+    }
+  },
+
+
+
+  "about": {
+    "title": "About Me",
+    "subtitle": "Head of Communications and Media driven by strategic messaging and stakeholder engagement",
+    "mainStory": {
+      "intro": "I'm Binit Kishor",
+      "paragraph1": "As Head of Communications and Media at Monadnocks, I play a crucial role in shaping our public image and ensuring effective communication with our various stakeholders. My responsibilities include managing media relations, crafting press releases, overseeing our social media presence, and developing internal communication strategies.",
+      "paragraph2": "I work to ensure that Monadnocks' message – encompassing both our business ventures and foundation initiatives – is consistently clear, accurate, and impactful. I contribute significantly to maintaining a strong and positive public perception of Monadnocks."
+    },
+    "careerHighlights": [
+      {
+        "icon": "📢",
+        "title": "Head of Communications",
+        "description": "Monadnocks Foundation"
+      },
+      {
+        "icon": "📰",
+        "title": "Media Relations",
+        "description": "Press releases & stakeholder communication"
+      },
+      {
+        "icon": "📱",
+        "title": "Social Media Oversight",
+        "description": "Managing digital presence & engagement"
+      },
+      {
+        "icon": "💬",
+        "title": "Strategic Communication",
+        "description": "Internal & external messaging strategies"
+      }
+    ],
+    "image": {
+      "src": "/binit05.png",
+      "alt": "Binit Kishor profile photo"
+    }
+  },
+
+
+
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Comprehensive communications and media management skills honed through strategic stakeholder engagement and public relations experience.",
+    "categories": [
+      {
+        "title": "Communications Strategy",
+        "icon": "📢",
+        "skills": [
+          "Strategic Communications",
+          "Media Relations",
+          "Press Release Writing",
+          "Stakeholder Communication",
+          "Crisis Communications",
+          "Internal Communications",
+          "Brand Messaging",
+          "Public Relations"
+        ]
+      },
+      {
+        "title": "Content Creation",
+        "icon": "✍️",
+        "skills": [
+          "Press Releases",
+          "Corporate Communications",
+          "Social Media Content",
+          "Newsletters",
+          "Annual Reports",
+          "Executive Communications",
+          "Marketing Copy",
+          "Content Strategy"
+        ]
+      },
+      {
+        "title": "Media Management",
+        "icon": "📰",
+        "skills": [
+          "Media Relations",
+          "Press Conferences",
+          "Interview Coordination",
+          "Media Monitoring",
+          "Reputation Management",
+          "Media Training",
+          "Press Kit Development",
+          "Media Strategy"
+        ]
+      },
+      {
+        "title": "Digital Communications",
+        "icon": "📱",
+        "skills": [
+          "Social Media Management",
+          "Digital PR",
+          "Online Reputation",
+          "Content Marketing",
+          "Email Communications",
+          "Digital Strategy",
+          "Social Analytics",
+          "Platform Optimization"
+        ]
+      },
+      {
+        "title": "Analytics & Reporting",
+        "icon": "📊",
+        "skills": [
+          "Communication Analytics",
+          "Media Coverage Tracking",
+          "Social Media Analytics",
+          "Engagement Metrics",
+          "ROI Measurement",
+          "Performance Reporting",
+          "Data Visualization",
+          "Impact Assessment"
+        ]
+      },
+      {
+        "title": "Strategic Planning",
+        "icon": "🎯",
+        "skills": [
+          "Communication Planning",
+          "Crisis Management",
+          "Stakeholder Mapping",
+          "Message Development",
+          "Campaign Strategy",
+          "Brand Positioning",
+          "Reputation Strategy",
+          "Communication Audits"
+        ]
+      }
+    ],
+    "tools": [
+      { "name": "Media Monitoring", "icon": "📰", "category": "PR" },
+      { "name": "Press Release Tools", "icon": "📢", "category": "Communications" },
+      { "name": "Social Media", "icon": "📱", "category": "Digital" },
+      { "name": "Analytics", "icon": "📊", "category": "Reporting" },
+      { "name": "Email Marketing", "icon": "📧", "category": "Communications" },
+      { "name": "Content Management", "icon": "📝", "category": "Content" },
+      { "name": "Media Database", "icon": "📋", "category": "PR" },
+      { "name": "Crisis Management", "icon": "🚨", "category": "Strategy" },
+      { "name": "Brand Monitoring", "icon": "👁️", "category": "Reputation" },
+      { "name": "Stakeholder Tools", "icon": "🤝", "category": "Relations" },
+      { "name": "Press Kit Tools", "icon": "📦", "category": "Media" },
+      { "name": "Communication Platforms", "icon": "💬", "category": "Internal" }
+    ]
+  },
+
+
+
+  "achievements": {
+    "title": "Achievements & Milestones",
+    "subtitle": "Key accomplishments, awards, and milestones that showcase my impact in communications and media management.",
+    "items": [
+
+      {
+        "id": 1,
+        "title": "Head of Communications",
+        "description": "Appointed as Head of Communications and Media at Monadnocks Foundation",
+        "date": "2024",
+        "icon": "📢",
+        "category": "Leadership"
+      },
+      {
+        "id": 2,
+        "title": "Enhanced Public Image",
+        "description": "Successfully improved Monadnocks' public perception and stakeholder engagement",
+        "date": "2024",
+        "icon": "📈",
+        "category": "Performance"
+      },
+
+      {
+        "id": 3   ,
+        "title": "Strategic Communication Award",
+        "description": "Recognized for exceptional communication strategies and media relations",
+        "date": "2023",
+        "icon": "🏅",
+        "category": "Recognition"
+      }
+    ],
+    "summary": {
+      "text": "Track Record of Success",
+      "icon": "📊"
+    }
+  },
+
+
+  "gallery": {
+    "title": "Portfolio Gallery",
+    "subtitle": "Explore my communications campaigns, media relations strategies, and stakeholder engagement projects that have driven real results.",
+    "cta": {
+      "text": "View All Projects",
+      "href": "/portfolio"
+    }
+  },
+
+
+  "socialMedia": {
+    "title": "Social Media Presence",
+    "subtitle": "Managing Monadnocks' digital presence and stakeholder engagement across multiple platforms.",
+    "platforms": [
+      {
+        "id": 2,
+        "name": "Instagram",
+        "handle": "@monadnocks",
+        "url": "https://instagram.com/monadnocks",
+        "followers": "2.5K+",
+        "engagement": "8.5%",
+        "icon": "📸",
+        "color": "bg-gradient-to-r from-purple-500 to-pink-500",
+        "description": "Visual content & brand messaging"
+      },
+      {
+        "id": 4,
+        "name": "Facebook",
+        "handle": "Monadnocks",
+        "url": "https://facebook.com/monadnocks",
+        "followers": "3.2K+",
+        "engagement": "6.8%",
+        "icon": "📘",
+        "color": "bg-blue-500",
+        "description": "Community engagement & updates"
+      },
+      {
+        "id": 5,
+        "name": "YouTube",
+        "handle": "Monadnocks",
+        "url": "https://youtube.com/@monadnocks",
+        "followers": "1.8K+",
+        "engagement": "12.3%",
+        "icon": "📺",
+        "color": "bg-red-600",
+        "description": "Educational content & updates"
+      },
+      {
+        "id": 6,
+        "name": "LinkedIn",
+        "handle": "Monadnocks",
+        "url": "https://linkedin.com/company/monadnocks",
+        "followers": "1.5K+",
+        "engagement": "15.7%",
+        "icon": "💼",
+        "color": "bg-blue-600",
+        "description": "Professional updates & networking"
+      }
+    ],
+    "summary": {
+      "text": "Total Reach: 9K+ Followers",
+      "icon": "📊"
+    }
+  },
+
+
+  "testimonials": {
+    "title": "Testimonials",
+    "items": [
+      {
+        "id": 1,
+        "quote": "Binit's strategic approach to communications has been instrumental in shaping Monadnocks' public image. His expertise in media relations and stakeholder communication has helped us maintain a strong, positive reputation.",
+        "author": "Monu Raj",
+        "avatar": "/monuraj.jpeg",
+        "position": "Founder",
+        "company": "Monadnocks"
+      },
+      {
+        "id": 2,
+        "quote": "Binit's role as Head of Communications has transformed how we communicate with our stakeholders. His ability to craft clear, impactful messages and manage our media presence has been invaluable to our success.",
+        "author": "Sonu Raj",
+        "avatar": "/sonuraj.jpeg",
+        "position": "Co-Founder",
+        "company": "Monadnocks"
+      },
+      {
+        "id": 3,
+        "quote": "Working with Binit has been exceptional. His strategic communication skills and media relations expertise have helped us build strong relationships with our stakeholders and maintain a positive public perception.",
+        "author": "Raj Bhushan Raj",
+        "avatar": "/rajbhushanraj.jpeg",
+        "position": "Co-Founder",
+        "company": "Monadnocks"
+      }
+    ]
+  },
+
+
+  "contributions": {
+    "title": "Key Contributions",
+    "items": [
+      {
+        "icon": "📢",
+        "text": "Managing media relations and press releases for Monadnocks Foundation"
+      },
+      {
+        "icon": "📱",
+        "text": "Overseeing social media presence and digital communications strategy"
+      },
+      {
+        "icon": "💬",
+        "text": "Developing internal and external communication strategies"
+      },
+      {
+        "icon": "📊",
+        "text": "Ensuring consistent messaging across all communication channels"
+      }
+    ]
+  },
+
+
+  "portfolio": {
+    "title": "Portfolio Gallery",
+    "subtitle": "Explore my communications campaigns, media relations strategies, and stakeholder engagement projects that have driven real results.",
+    "categories": ["All", "Communications", "Media Relations", "Stakeholder Relations", "Digital Communications", "Crisis Management", "Brand Strategy", "Internal Communications"],
+    "projects": [
+      {
+        "id": 1,
+        "title": "Monadnocks Foundation Communications",
+        "description": "Strategic communication campaign that enhanced public perception",
+        "category": "Communications",
+        "image": "/ncmchampionship.jpeg",
+        "video": null,
+        "stats": "Enhanced public perception",
+        "year": "2024"
+      },
+      {
+        "id": 2,
+        "title": "Media Relations Strategy",
+        "description": "Comprehensive media relations and press release management",
+        "category": "Media Relations",
+        "image": "/media.png",
+        "video": null,
+        "stats": "Improved media coverage",
+        "year": "2024"
+      },
+      {
+        "id": 3,
+        "title": "Stakeholder Communication",
+        "description": "Internal and external stakeholder engagement campaigns",
+        "category": "Stakeholder Relations",
+        "image": "/stackeholder.png",
+        "video": null,
+        "stats": "Enhanced stakeholder engagement",
+        "year": "2024"
+      }
+    ],
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let's discuss how I can help you achieve similar results for your communications needs.",
+      "buttonText": "Get In Touch",
+      "buttonLink": "/#connect"
+    }
+  },
+
+
+  "connect": {
+    "title": "Let's Connect",
+    "links": [
+      {
+        "name": "Email",
+        "url": "mailto:binitkishor289@gmail.com"
+      },
+      {
+        "name": "Phone",
+        "url": "tel:+918002919435"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/binit_kishor_09/"
+      }
+    ],
+    "form": {
+      "name": {
+        "placeholder": "Name",
+        "required": true
+      },
+      "email": {
+        "placeholder": "Email",
+        "required": true
+      },
+      "message": {
+        "placeholder": "Message",
+        "required": true,
+        "rows": 4
+      },
+      "submit": "Send Message"
+    }
+  },
+
+
+  "youtube": {
+    "title": "Featured Video",
+    "featuredVideo": {
+      "id": "featured-1",
+      "title": "What is Monadnocks? - Our Mission & Vision",
+      "description": "Discover the story behind Monadnocks Foundation - our mission to build movements, not just metrics.",
+      "videoId": "YI-68PTtrjs",
+      "startTime": "960",
+      "views": "15.2K",
+      "duration": "12:45",
+      "publishedAt": "2 weeks ago",
+      "category": "About Monadnocks"
+    },
+    "cta": {
+      "text": "Watch All Videos",
+      "url": "https://youtube.com/@monadnocks",
+      "icon": "🎥"
+    }
+  },
+
+  "mediaGallery": {
+    "title": "Media Gallery",
+    "subtitle": "Capturing memories and important moments from our journey",
+    "categories": ["All", "Team Photos", "Events", "Work", "Memories", "Achievements"],
+    "images": [
+      {
+        "id": 1,
+        "title": "Team Meeting",
+        "description": "Core team discussion at Monadnocks",
+        "category": "Team Photos",
+        "image": "/teammeating.png",
+        "date": "2025"
+      },
+      {
+        "id": 2,
+        "title": "NCM Championship",
+        "description": "Celebrating successful project completion",
+        "category": "Events",
+        "image": "/ncmchampionship.jpeg",
+        "date": "2024"
+      },
+      {
+        "id": 3,
+        "title": "Binit Kishor",
+        "description": "Head of Communications and Media",
+        "category": "Memories",
+        "image": "/binit01.jpeg",
+        "date": "2024"
+      },
+      {
+        "id": 4,
+        "title": "Monu Raj",
+        "description": "Let's meet our founder",
+        "category": "Memories",
+        "image": "/monuraj.jpeg",
+        "date": "2024"
+      },
+      {
+        "id": 5,
+        "title": "Sonu Raj",
+        "description": "Let's meet our co-founder",
+        "category": "Memories",
+        "image": "/sonuraj.jpeg",
+        "date": "2024"
+      },
+      {
+        "id": 6,
+        "title": "Raj Bhushan Raj",
+        "description": "Let's meet our co-founder",
+        "category": "Memories",
+        "image": "/rajbhushanraj.jpeg",
+        "date": "2024"
+      },
+      {
+        "id": 7,
+        "title": "Friends",
+        "description": "Let's meet our friends",
+        "category": "Memories",
+        "image": "/friends01.png",
+        "date": "2023"
+      },
+      {
+        "id": 8,
+        "title": "Friends",
+        "description": "Let's meet our friends",
+        "category": "Memories",
+        "image": "/friends02.png",
+        "date": "2025"
+      }
+    ]
+  }
+
+} 
+
