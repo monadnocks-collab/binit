@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Mitul Raj - Digital Marketing Strategist",
-  description: "Digital Marketing Strategist at Monadnocks Foundation. Crafting campaigns, building communities, and fueling purpose.",
+  title: "Binit Kumar",
+  description: "Head of Communications and Media shaping public impact.",
 };
 
 export default function RootLayout({ children }) {
