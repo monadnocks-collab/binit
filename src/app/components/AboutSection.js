@@ -6,11 +6,10 @@ import data from "../data.json";
 export default function AboutSection() {
   const { t } = useLanguage();
   const aboutData = data.about;
-  
   return (
     <section className="w-full max-w-full py-12 sm:py-20 px-4 mx-auto bg-black text-white" id="about">
       <div className="max-w-6xl mx-auto">
-        {/* Header */}
+        {/* Header*/}
         <div className="text-center mb-16">
           <h2 className="text-3xl sm:text-4xl font-extrabold mb-4">
             <span className="bg-gradient-to-r from-pink-500 via-fuchsia-500 to-blue-500 bg-clip-text text-transparent">{aboutData.title}</span>
@@ -45,7 +44,7 @@ export default function AboutSection() {
               {/* Left Column - Main Story */}
               <div>
                 <h3 className="text-2xl font-bold mb-4 text-white">
-                  {aboutData.mainStory.intro} <span className="text-pink-400">Mitul Raj</span>
+                  {aboutData.mainStory.intro.split(" ")[0]} <span className="text-pink-400">{aboutData.mainStory.intro.split(" ").slice(1).join(" ")}</span>
                 </h3>
                 <p className="text-gray-300 leading-relaxed mb-6 text-lg">
                   {aboutData.mainStory.paragraph1}
